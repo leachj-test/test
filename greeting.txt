@@ -1,0 +1,7 @@
+Hello! 👋
+
+Thanks for saying hi! This is a friendly test repository.
+
+Feel free to explore the GitHub Actions workflows and other features.
+
+Have a great day! 🌟
