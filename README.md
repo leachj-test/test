@@ -1,6 +1,6 @@
 # test
 
-some text
+Hi there! 👋 Welcome to this test repository!
 
 fdlkjdflkjljlfd
 
